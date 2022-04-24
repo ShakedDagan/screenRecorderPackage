@@ -1,0 +1,17 @@
+{
+  "name": "screenRecorder",
+  "version": "1.0.0",
+  "description": "screenRecorder",
+  "main": "index.ts",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.25"
+  },
+  "dependencies": {
+    "electron": "^18.1.0",
+    "file-stream-rotator": "^0.6.1"
+  }
+}
